@@ -77,10 +77,10 @@
 ## Задание 3
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
 Не должна так как loss показывает величину ошибки, т.е, чем больше она лежит между точками, тем лучше.
-![Снимок экрана (30)](https://user-images.githubusercontent.com/114180894/192610036-0f343fb2-988c-4cd9-9a00-1e2f73f95456.png)
-![Снимок экрана (31)](https://user-images.githubusercontent.com/114180894/192610039-3cbf491e-cb5f-4ed4-af33-22f83f532e55.png)
-![Снимок экрана (32)](https://user-images.githubusercontent.com/114180894/192610042-dd274899-f9fc-4ae5-8dd1-07bdcefd2b54.png)
-![Снимок экрана (33)](https://user-images.githubusercontent.com/114180894/192610045-40074b88-b424-4fc8-bc56-bac05367f8c9.png)
+![image](https://user-images.githubusercontent.com/109138056/192862613-dd77f187-cef4-4031-bbb8-916fefae89f7.png)
+![image](https://user-images.githubusercontent.com/109138056/192862699-dd79fe4e-f564-481e-94c8-f428dcb8d358.png)
+![image](https://user-images.githubusercontent.com/109138056/192862804-07e6e034-e969-4824-a0a2-95025584375b.png)
+![image](https://user-images.githubusercontent.com/109138056/192862881-2c4ae59a-3577-446d-a9e0-67ead28a043b.png)
 
 ### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
 Lr- это величина погрешности точек на графике. 
