@@ -41,9 +41,9 @@
 
 
 ![image](https://user-images.githubusercontent.com/109138056/192851566-ecd4924b-e609-4bd1-8d4e-ef7aeb052613.png)
+![image](https://user-images.githubusercontent.com/109138056/192852481-d7315809-c4cc-451d-9d20-3c009565de49.png)
+![image](https://user-images.githubusercontent.com/109138056/192852609-349cbc14-58d7-4250-9a88-625a773cfc1d.png)
 
-![Снимок экрана (23)](https://user-images.githubusercontent.com/114180894/192596422-949577ff-db5b-43c3-9a91-72c6b05c3b91.png)
-![Снимок экрана (24)](https://user-images.githubusercontent.com/114180894/192596425-a67e3dd4-d7f9-44a9-9c93-67171d8dd9fc.png)
 
 ## Задание 2
 ### Пошагово выполнить каждый пункт раздела "ход работы" с описанием и примерами реализации задач.
