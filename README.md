@@ -84,10 +84,10 @@
 
 ### Какова роль параметра Lr? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ. В качестве эксперимента можете изменить значение параметра.
 Lr- это величина погрешности точек на графике. 
-![Снимок экрана (37)](https://user-images.githubusercontent.com/114180894/192610494-41aae35e-4e14-4e69-8535-d424be0f2caa.png)
-![Снимок экрана (34)](https://user-images.githubusercontent.com/114180894/192610499-608f925c-6d75-4262-8575-cdea17d7ce1c.png)
-![Снимок экрана (35)](https://user-images.githubusercontent.com/114180894/192610503-6d19e903-ae7e-487e-84b3-eb27e06cef89.png)
-![Снимок экрана (36)](https://user-images.githubusercontent.com/114180894/192610504-4fb06c61-2e7a-4687-84c6-fe5d419607e2.png)
+![image](https://user-images.githubusercontent.com/109138056/192863383-a24b8170-0317-4b99-91cd-2ad883bbe583.png)
+![image](https://user-images.githubusercontent.com/109138056/192863244-276b1d72-ad00-427f-95fc-d313792e09d8.png)
+![image](https://user-images.githubusercontent.com/109138056/192863439-b066050c-38c2-4599-9087-180ae86dcf74.png)
+![image](https://user-images.githubusercontent.com/109138056/192863502-f520ce71-4c41-46fc-b244-b0ed6c2f32f2.png)
 
 
 ## Выводы
