@@ -53,26 +53,26 @@
 ![image](https://user-images.githubusercontent.com/109138056/192859105-aba61d74-4461-4c8c-a4a7-87ddd7a30a24.png)
 
 2)Определите связанные функции. Функция модели: определяет модель линейной регрессии wx+b. Функция потерь: функция потерь среднеквадратичной ошибки. Функция оптимизации: метод градиентного спуска для нахождения частных производных w и b.
-![image](https://user-images.githubusercontent.com/109138056/192859219-de8a9089-d913-4f12-b041-d02e502b7f05.png)
+![image](https://user-images.githubusercontent.com/109138056/192860381-fb4f7481-6298-4689-a2e5-c893ef9d0671.png)
 
 3)Начать итерацию
 Шаг 1)Инициаизация и модель итеративной оптимизации
-![image](https://user-images.githubusercontent.com/109138056/192859406-aa17c166-6bac-400c-ae03-9a4fa860c673.png)
+![image](https://user-images.githubusercontent.com/109138056/192860482-e48cc8f2-db8f-43e7-a785-721ebbd586a1.png)
 
 Шаг 2)На второй итерации отображаются значения параметров, значаения потерь и эффекты визуализации после итерации
-![image](https://user-images.githubusercontent.com/109138056/192859519-2ce2bd7e-2536-4835-80a4-350d565dc085.png)
+![image](https://user-images.githubusercontent.com/109138056/192860677-2a4392eb-4739-4b8e-9a6b-abb0d50cd908.png)
 
 Шаг 3)Третья итерация показывает значаение параметров, значения потерь и визуализацию после итерации 
-![Снимок экрана (28)](https://user-images.githubusercontent.com/114180894/192605132-de4a81cc-2b8c-471d-af0d-a7a99537d0d0.png)
+![image](https://user-images.githubusercontent.com/109138056/192860948-689e7989-21d1-4592-8f6c-3a3786fa872d.png)
 
 Шаг 4)На четвертой итерации отображаются значения параметров, значения потерь и эффекты визуализации
-![Снимок экрана (28)](https://user-images.githubusercontent.com/114180894/192605296-ea4cd53f-f631-4e5a-94b6-65b1d4651758.png)
+![image](https://user-images.githubusercontent.com/109138056/192861063-2c9be2ab-8777-498b-a4cd-d077bc788fe1.png)
 
 Шаг 5)Пятая итерация показываент значение параметра, значние потерь и эффект визуализации после итерации
-![Снимок экрана (29)](https://user-images.githubusercontent.com/114180894/192605438-2a78280c-0320-4b1f-9c29-952bcf79359d.png)
+![image](https://user-images.githubusercontent.com/109138056/192861597-beae148e-ecd4-430f-9f14-48d7d0f51a4f.png)
 
 Шаг 6)1000-я итерация, показывающая значения параметров, потери и визуализацию после итерации
-![Снимок экрана (29)](https://user-images.githubusercontent.com/114180894/192605650-146195c7-b45c-4b13-b1de-cbdf8fa9e25f.png)
+![image](https://user-images.githubusercontent.com/109138056/192861671-051cb7f8-ccaa-4233-95eb-b7d2de379e8f.png)
 
 ## Задание 3
 ### Должна ли величина loss стремиться к нулю при изменении исходных данных? Ответьте на вопрос, приведите пример выполнения кода, который подтверждает ваш ответ.
