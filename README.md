@@ -39,7 +39,7 @@
 ## Задание 1
 ### Написать прогарммы Hello World на Python и Unity.
 
-![Снимок экрана (22)]([https://github.com/tvixer/-/blob/dced14e3aaee58119c7f612eaaa0ce045deccf4b/%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D0%BA%D0%BE%D0%B4%D0%B0%20%D0%B2%20Unity.jpg])
+![Снимок экрана (22)]([https://github.com/tvixer/-/blob/main/%D0%9A%D0%BE%D0%B4%20%D0%BD%D0%B0%20Colab.jpg])
 ![Снимок экрана (23)](https://user-images.githubusercontent.com/114180894/192596422-949577ff-db5b-43c3-9a91-72c6b05c3b91.png)
 ![Снимок экрана (24)](https://user-images.githubusercontent.com/114180894/192596425-a67e3dd4-d7f9-44a9-9c93-67171d8dd9fc.png)
 
